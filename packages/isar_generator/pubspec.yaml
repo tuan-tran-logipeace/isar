@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/tuan-tran-logipeace/isar.git
       path: packages/isar
-      ref: 095339d2
+      ref: update-namespace
   path: ^1.8.1
   source_gen: ^1.2.2
   xxh3: ^1.0.1
